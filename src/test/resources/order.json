@@ -1,0 +1,9 @@
+{
+  "orderId": 12345,
+  "customerName": "Ivan Petrov",
+  "items": [
+    { "name": "iPhone 15", "price": 450000.0, "qty": 1 },
+    { "name": "AirPods Pro", "price": 110000.0, "qty": 2 }
+  ],
+  "totalPrice": 670000.0
+}
